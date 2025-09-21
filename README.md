@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Custom Php, Codeigniter, Node.Js, Next.Js, Nest.Js, Vue.Js, React.Js,React Native**
 
-- 📫 How to reach me **ahmadsohailusman@gmail.com**
+- 📫 How to reach me **talalmalik509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
