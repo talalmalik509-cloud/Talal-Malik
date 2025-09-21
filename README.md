@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talal Malik</h1>
-<h3 align="center">A passionate backend developer from United States</h3>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Point of sale**
 
